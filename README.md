@@ -7,7 +7,7 @@ Calculator, kalkulator.
 
 
 ## Technologie
-* HTML5
+* HTML
 * CSS
 * JavaScript
 
