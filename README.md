@@ -13,4 +13,5 @@ Calculator, kalkulator.
 
 
 
-![calc](https://user-images.githubusercontent.com/105555319/168682800-4987c61a-05bd-46b8-8321-d1277aabba18.png)
+![poka1](https://user-images.githubusercontent.com/105555319/168683351-87b50cd4-4020-4180-abf7-a7da73613c78.png)
+
