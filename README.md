@@ -6,6 +6,7 @@ Calculator, kalkulator.
 >Kalkulator można zobaczyć pod adresem: https://bar-85.github.io/calculator/
 
 
+
 ## Technologie
 * HTML
 * CSS
