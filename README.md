@@ -1,4 +1,4 @@
-# CALCULATOR
+ <h1 align="center"> Calculator </h1>
 Calculator, kalkulator.
 
 
