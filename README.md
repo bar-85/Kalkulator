@@ -1,6 +1,4 @@
- <h1 align="center"> Calculator </h1>
-Calculator, kalkulator.
-
+ <h1 align="center"> Kalkulator </h1>
 
 
 >Kalkulator można zobaczyć pod adresem: https://bar-85.github.io/calculator/
